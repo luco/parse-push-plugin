@@ -1,4 +1,4 @@
-Phonegap Parse.com Plugin
+Phonegap Parse.com Plugin Android Only
 =========================
 
 Phonegap 3.x plugin for Parse.com push service.
